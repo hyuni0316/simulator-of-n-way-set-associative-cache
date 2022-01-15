@@ -1,1 +1,1 @@
-# simulator-of-n-way-set-associative-cache-
+# simulator of n-way set associative cache
